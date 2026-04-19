@@ -3,11 +3,11 @@ Simple calculator in C that performs basic operations with user input.
 
 # Calculator in C
 
-Simple project made in C that performs multiplication between two numbers entered by the user.
+Simple project made in C that performs multiple forms os calculation between two numbers entered by the user.
 
 ## Features
 - Input of two numbers
-- Multiplication calculation
+- Multiple expressions calculation
 - Result display
 - Program repetition
 

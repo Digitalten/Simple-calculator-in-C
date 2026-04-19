@@ -7,7 +7,7 @@ int main() {
     printf("Choose a calculation expression between 1 for +, 2 for *, 3 for -, and 4 for /.\n");
     scanf("%d", &option);
 
-    printf("Please enter the desired numbers: \n");
+    printf("\nPlease enter the desired numbers: \n");
     scanf("%d %d", &a, &b);    
 
     switch (option) {
@@ -40,6 +40,8 @@ int main() {
 
     }
 
+    getchar();
+    getchar();
     return 0;
 
 }

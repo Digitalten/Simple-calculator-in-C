@@ -15,14 +15,20 @@ Simple calculator written in C with a menu-based interface, continuous loop, and
 
 ## How to run
 
+```
 gcc Calculator.c -o calculator
 ./calculator
 
+```
+
 ## Example
 
+```
 Choose: 1(+), 2(*), 3(-), 4(/)  
 Enter two numbers: 5 3  
 Result: 8
+
+```
 
 ## Technologies
 - C

@@ -3,7 +3,7 @@ Simple calculator in C that performs basic operations with user input.
 
 # Calculator in C
 
-Simple calculator written in C with a menu-based interface, continuous loop, and basic error handling.
+Simple calculator written in C with a menu-based interface, continuous loop, and error handling.
 
 ## Features
 - Input of two numbers
@@ -11,7 +11,7 @@ Simple calculator written in C with a menu-based interface, continuous loop, and
 - Result display
 - Continous loop
 - Menu to choose the desired expression
-- error handling
+- Error handling
 
 ## How to run
 
@@ -24,7 +24,8 @@ gcc Calculator.c -o calculator
 ## Example
 
 ```
-Choose: 1(+), 2(*), 3(-), 4(/)  
+Choose: 1, 2, 3, 4, 5.
+choosed 1  
 Enter two numbers: 5 3  
 Result: 8
 
